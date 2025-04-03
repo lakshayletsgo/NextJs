@@ -27,4 +27,4 @@ If you want you can specify the name of the app after the next app then you have
 
 #### Understanding the file structure
 The file structure of a Next.js app is quite different from a traditional React app. 
-Open the folder [tut1](https://github.com/lakshayletsgo/NextJs/tree/main/tut1)
+Open the folder [tut1](https://github.com/lakshayletsgo/NextJs/tree/main/tut1) and go to the readme.md to understand the tut1
