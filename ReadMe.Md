@@ -28,3 +28,10 @@ If you want you can specify the name of the app after the next app then you have
 #### Understanding the file structure
 The file structure of a Next.js app is quite different from a traditional React app. 
 Open the folder [tut1](https://github.com/lakshayletsgo/NextJs/tree/main/tut1) and go to the readme.md to understand the tut1
+
+#### File Based Routing 
+Next.js uses a file-based routing mechanism, where each page is a separate file in the `pages ` directory. This allows for easy management of routes and makes it simple to create new pages.
+File based is very useful when we are building production apps as it is very easy to manage the routes and also it is very easy to debug the app.
+Open the folder [tut2](https://github.com/lakshayletsgo/NextJs/tree/main/tut2)
+
+In this i have explained the routing which are of two types -> 1. File based Routing     2. Dynamic Routing 
